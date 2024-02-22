@@ -7,5 +7,6 @@ const str = "bananas"; // e.g.
  * - If "str" is "chocolate", "strLength" should count the number of characters and result in 9.
  * This should still work when "str" is equal to a different value.
  */
-
+const  strLength = strLength;
+console.log("Length of the string: ", strLength);
 // WRITE YOUR ANSWER BELOW THIS LINE

@@ -16,3 +16,7 @@ const place = "New Jersey"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+let place2 = "New York";
+let lastSpaceIndex = place2.lastIndexOf(" ");
+let newPlace = place2.substring(lastSpaceIndex + 1);
+console.log("Last part of the place name: ",newPlace);
