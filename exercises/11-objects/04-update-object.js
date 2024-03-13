@@ -15,3 +15,5 @@ let student = {
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+student.name = "Shaniyah Jones";
+student.skills.push("Programming","Debugging");
